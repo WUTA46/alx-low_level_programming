@@ -1,6 +1,9 @@
 #include<stdio.h>
-/*
- * main - Entry point
+
+/**
+ * main -  Entry point
+ *
+ * Description: 'a program that prints a string using puts function'
  *
  * Return: Always(0) success
  */
