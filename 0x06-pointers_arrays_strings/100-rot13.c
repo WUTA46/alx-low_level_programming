@@ -19,6 +19,7 @@ char *rot13(char *c)
 			if (c[i] == alph[j])
 			{
 				c[i] = ralph[j];
+				break;
 			}
 		}
 	}
